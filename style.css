@@ -208,7 +208,7 @@ body {
         background-repeat: repeat;
     }
     .cabecalho {
-        width: 100%;
+        width: 100vw;
     }
     .container__titulo {
         font-size: 30px;
