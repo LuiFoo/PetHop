@@ -35,7 +35,7 @@ body {
 .cabecalho__nav, .cabecalho__section {
     display: flex;
     align-items: center;
-    gap: 44px;
+    gap: 24px;
 }
 
 .cabecalho__paragrafos {
@@ -116,7 +116,7 @@ body {
 }
 
 .rodape__logoinstagram:hover {
-    background-color: #1d1e1f;
+    background-color: #595a5a;
 }
 
 .rodape__faixasapp {
