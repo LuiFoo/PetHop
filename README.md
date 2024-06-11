@@ -1,0 +1,1 @@
+<img src="https://media.discordapp.net/attachments/1232764064720097384/1250184480744800350/image.png?ex=666a0487&is=6668b307&hm=776cd506b04beae8537bc1b7e7828320fc1bc3a9a85c070f4d441e698b21e492&=&format=webp&quality=lossless&width=550&height=309" alt="Texto Alternativo">
