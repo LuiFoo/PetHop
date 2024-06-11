@@ -17,3 +17,10 @@
 .main__visita__section__imagem {
     width: 20rem;
 }
+
+.lista-menu__item2 {
+    padding: 1em 7.2em 1em 1em;
+    background-color: var(--cor-secundaria);
+    font-family: var(--font-principal);
+    font-weight: 400;
+}
