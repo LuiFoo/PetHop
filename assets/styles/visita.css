@@ -1,0 +1,19 @@
+.main__visita {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.main__visita__section__paragrafo {
+    display: flex;
+    margin: 4em 0 0 0;
+    justify-content: center;
+    font-family: var(--font-principal);
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.main__visita__section__imagem {
+    width: 20rem;
+}
